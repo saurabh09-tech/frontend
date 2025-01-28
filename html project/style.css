@@ -1,0 +1,277 @@
+/* .parent {
+    display:flex;
+    height: 500px;
+    background-color: aqua;
+    justify-content: center;
+    align-items:center ;
+    gap:40px;
+
+} */
+ 
+ .container {
+    
+    background-color: lightskyblue; 
+    align-items:center;
+   
+ }
+ .container img{
+   height:100px;
+   width:100px;
+   /* border-radius:50%; */
+   align-items: center;
+ }
+ .container1{
+   height:570px;
+   background-color: lightskyblue;
+   display:flex;
+   align-items:center;
+   justify-content: space-around;
+   
+ }
+ .header p{
+   text-align:center;
+   font-size:40px;
+   /* padding-top: 20px; */
+   justify-content:start;
+   color:black;
+   
+ }
+ .header1 p{
+   color:black;
+   text-align: center;
+   padding: 20px;
+ }
+ .top {
+   background-color: white;
+   height:200px;
+   width:220px;
+   border-radius: 10px;
+   text-align: center;
+   
+   
+ }
+
+ .one{
+    height:400px;
+    width:300px;
+    background-color:darkorchid;
+    color:whitesmoke;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: space-between;
+    padding:2px;
+    padding-bottom: 85px;
+   
+    
+
+
+ }
+ /* .list-container {
+    margin-left: -150px;
+   
+ } */
+ .list-container li {
+   list-style-type:square;
+   color: blue;
+   font-size: 25px;
+
+ }
+ .one button {
+    padding-bottom:5px;
+    border-color: black;
+    border-radius: 5px;
+    background-color:rgb(153, 220, 20);
+    font-size: medium;
+    
+
+ }
+ .title{
+    font-size: xx-large;
+    color:darkorchid;
+ }
+ 
+ .price p{
+    font-size: 40px;
+    color:darkorchid;
+    
+ }
+ .price{
+   padding-bottom:20px;
+   align-items:start;
+ }
+ .price span{
+    font-size: 20px;
+    color: darkorchid;
+    
+ }
+ .two{
+   height:400px;
+    width:300px;
+    background-color:greenyellow;
+    color:whitesmoke;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding:2px;
+    padding-bottom: 85px;
+
+ }
+ .top1 {
+   background-color: white;
+   height:200px;
+   width:220px;
+   border-radius: 10px;
+   text-align: center;
+ }
+ .title1 {
+   font-size: xx-large;
+   color:greenyellow;
+}
+.price1 p{
+   font-size: 40px;
+   color: greenyellow;
+   
+}
+.price1 {
+  padding-bottom:20px;
+  align-items:start;
+}
+.price1 span{
+   font-size: 20px;
+   color:greenyellow;
+   
+}
+.list-container1 li {
+   list-style-type:square;
+   color:coral;
+   font-size: 25px;
+
+ }
+ .two button {
+   padding-bottom:5px;
+   border-color: black;
+   border-radius: 5px;
+   background-color:darkred;
+   font-size: medium;
+   
+
+}
+   
+
+ .three{
+   height:400px;
+    width:300px;
+    background-color:deepskyblue;
+    color:whitesmoke;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding:2px;
+    padding-bottom: 85px;
+ }
+ .top2 {
+   background-color: white;
+   height:200px;
+   width:220px;
+   border-radius: 10px;
+   text-align: center;
+ }
+ .title2 {
+   font-size: xx-large;
+   color:deepskyblue;
+}
+.price2 p{
+   font-size: 40px;
+   color: deepskyblue;
+   
+}
+.price2 {
+  padding-bottom:20px;
+  align-items:start;
+}
+.price2 span{
+   font-size: 20px;
+   color: deepskyblue;
+   
+}
+.list-container2 li {
+   list-style-type:square;
+   color:mediumspringgreen;
+   font-size: 25px;
+
+ }
+ .three button {
+   padding-bottom:5px;
+   border-color: black;
+   border-radius: 5px;
+   background-color:cyan;
+   font-size: medium;
+   
+
+}
+ .four{
+   height:400px;
+    width:300px;
+    background-color:orange;
+    color:whitesmoke;
+    border-radius: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding:2px;
+    padding-bottom: 85px;
+ }
+ .top3 {
+   background-color: white;
+   height:200px;
+   width:220px;
+   border-radius: 10px;
+   text-align: center;
+  
+ }
+ .title3 {
+   font-size: xx-large;
+   color:orange;
+}
+.price3 p{
+   font-size: 40px;
+   color:orange;
+   
+}
+.price3 {
+  padding-bottom:20px;
+  align-items:start;
+}
+.price3 span{
+   font-size: 20px;
+   color: orange;
+   
+}
+.list-container3 li {
+   list-style-type:square;
+   color:darkcyan;
+   font-size: 25px;
+
+ }
+ .four button {
+   padding-bottom:5px;
+   border-color: black;
+   border-radius: 5px;
+   background-color:gold;
+   font-size: medium;
+   
+
+}
+.end {
+   color:blue;
+   background-color: dodgerblue;
+   border-radius: 5px;
+   text-align: center;
+}
